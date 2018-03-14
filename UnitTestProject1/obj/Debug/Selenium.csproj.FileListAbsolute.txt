@@ -1,0 +1,15 @@
+C:\Users\mearya\source\Workspaces\MyFirstProject\main\UnitTestProject\Selenium\UnitTestProject1\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\mearya\source\Workspaces\MyFirstProject\main\UnitTestProject\Selenium\UnitTestProject1\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\mearya\source\Workspaces\MyFirstProject\main\UnitTestProject\Selenium\UnitTestProject1\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\mearya\source\Workspaces\MyFirstProject\main\UnitTestProject\Selenium\UnitTestProject1\bin\Debug\UnitTestProject1.dll
+C:\Users\mearya\source\Workspaces\MyFirstProject\main\UnitTestProject\Selenium\UnitTestProject1\bin\Debug\UnitTestProject1.pdb
+C:\Users\mearya\source\Workspaces\MyFirstProject\main\UnitTestProject\Selenium\UnitTestProject1\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\mearya\source\Workspaces\MyFirstProject\main\UnitTestProject\Selenium\UnitTestProject1\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\mearya\source\Workspaces\MyFirstProject\main\UnitTestProject\Selenium\UnitTestProject1\bin\Debug\WebDriver.dll
+C:\Users\mearya\source\Workspaces\MyFirstProject\main\UnitTestProject\Selenium\UnitTestProject1\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\mearya\source\Workspaces\MyFirstProject\main\UnitTestProject\Selenium\UnitTestProject1\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\mearya\source\Workspaces\MyFirstProject\main\UnitTestProject\Selenium\UnitTestProject1\bin\Debug\WebDriver.xml
+C:\Users\mearya\source\Workspaces\MyFirstProject\main\UnitTestProject\Selenium\UnitTestProject1\obj\Debug\Selenium.csprojResolveAssemblyReference.cache
+C:\Users\mearya\source\Workspaces\MyFirstProject\main\UnitTestProject\Selenium\UnitTestProject1\obj\Debug\Selenium.csproj.CoreCompileInputs.cache
+C:\Users\mearya\source\Workspaces\MyFirstProject\main\UnitTestProject\Selenium\UnitTestProject1\obj\Debug\UnitTestProject1.dll
+C:\Users\mearya\source\Workspaces\MyFirstProject\main\UnitTestProject\Selenium\UnitTestProject1\obj\Debug\UnitTestProject1.pdb
